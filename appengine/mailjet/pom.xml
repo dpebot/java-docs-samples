@@ -29,14 +29,14 @@
     <dependency>
       <groupId>com.mailjet</groupId>
       <artifactId>mailjet-client</artifactId>
-      <version>3.1.1</version>
+      <version>4.0.4</version>
       <scope>system</scope>
       <systemPath>${project.basedir}/src/main/webapp/WEB-INF/lib/client-3.1.1-jar-with-dependencies.jar</systemPath>
     </dependency>
     <dependency>
       <groupId>javax.servlet</groupId>
       <artifactId>servlet-api</artifactId>
-      <version>2.5</version>
+      <version>3.0-alpha-1</version>
       <type>jar</type>
       <scope>provided</scope>
     </dependency>

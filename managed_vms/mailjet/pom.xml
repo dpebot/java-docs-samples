@@ -30,7 +30,7 @@
     <dependency>
       <groupId>javax.servlet</groupId>
       <artifactId>javax.servlet-api</artifactId>
-      <version>3.1.0</version>
+      <version>4.0.0-b01</version>
       <type>jar</type>
       <scope>provided</scope>
     </dependency>
@@ -38,7 +38,7 @@
     <dependency>
       <groupId>com.mailjet</groupId>
       <artifactId>mailjet-client</artifactId>
-      <version>4.0.1</version>
+      <version>4.0.4</version>
     </dependency>
     <!-- [END dependencies] -->
   </dependencies>
